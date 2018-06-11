@@ -1,0 +1,3 @@
+﻿  display.cpp
+c:\users\student230190\source\repos\sfml\sfml\display.cpp(38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  SFML.vcxproj -> C:\Users\Student230190\source\repos\SFML\x64\Debug\SFML.exe
